@@ -1,0 +1,4 @@
+const knownWords = [
+        'camp', 'jazz', 'custom', 'stair', 'slush', 
+        'caught', 'casino', 'shock', 'master', 'sea'
+    ];
